@@ -1,6 +1,3 @@
-Name : 김혜린
-StudentID : 20231371
-
 [How to Compile]
 - Operating System: Windows 10 (64-bit)
 - Compiler: Microsoft Visual Studio 2022 (MSVC)
