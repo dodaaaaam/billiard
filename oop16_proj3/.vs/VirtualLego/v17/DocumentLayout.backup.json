@@ -1,0 +1,69 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\rin42\\OneDrive\\Desktop\\2\uD559\uB144\\2-2\\\uAC1D\uC9C0\uD504\\\uACFC\uC81C\\20231371_proj3\\oop16_proj3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C096A731-DE09-4367-869F-DFBAE35AFE1B}|VirtualLego.vcxproj|C:\\Users\\rin42\\OneDrive\\Desktop\\2\uD559\uB144\\2-2\\\uAC1D\uC9C0\uD504\\\uACFC\uC81C\\20231371_proj3\\oop16_proj3\\virtualLego.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{C096A731-DE09-4367-869F-DFBAE35AFE1B}|VirtualLego.vcxproj|solutionrelative:virtualLego.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C096A731-DE09-4367-869F-DFBAE35AFE1B}|VirtualLego.vcxproj|C:\\Users\\rin42\\OneDrive\\Desktop\\2\uD559\uB144\\2-2\\\uAC1D\uC9C0\uD504\\\uACFC\uC81C\\20231371_proj3\\oop16_proj3\\d3dUtility.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{C096A731-DE09-4367-869F-DFBAE35AFE1B}|VirtualLego.vcxproj|solutionrelative:d3dUtility.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C096A731-DE09-4367-869F-DFBAE35AFE1B}|VirtualLego.vcxproj|C:\\Users\\rin42\\OneDrive\\Desktop\\2\uD559\uB144\\2-2\\\uAC1D\uC9C0\uD504\\\uACFC\uC81C\\20231371_proj3\\oop16_proj3\\d3dUtility.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{C096A731-DE09-4367-869F-DFBAE35AFE1B}|VirtualLego.vcxproj|solutionrelative:d3dUtility.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "d3dUtility.h",
+              "DocumentMoniker": "C:\\Users\\rin42\\OneDrive\\Desktop\\2\uD559\uB144\\2-2\\\uAC1D\uC9C0\uD504\\\uACFC\uC81C\\20231371_proj3\\oop16_proj3\\d3dUtility.h",
+              "RelativeDocumentMoniker": "d3dUtility.h",
+              "ToolTip": "C:\\Users\\rin42\\OneDrive\\Desktop\\2\uD559\uB144\\2-2\\\uAC1D\uC9C0\uD504\\\uACFC\uC81C\\20231371_proj3\\oop16_proj3\\d3dUtility.h",
+              "RelativeToolTip": "d3dUtility.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-11-21T06:13:17.2Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "d3dUtility.cpp",
+              "DocumentMoniker": "C:\\Users\\rin42\\OneDrive\\Desktop\\2\uD559\uB144\\2-2\\\uAC1D\uC9C0\uD504\\\uACFC\uC81C\\20231371_proj3\\oop16_proj3\\d3dUtility.cpp",
+              "RelativeDocumentMoniker": "d3dUtility.cpp",
+              "ToolTip": "C:\\Users\\rin42\\OneDrive\\Desktop\\2\uD559\uB144\\2-2\\\uAC1D\uC9C0\uD504\\\uACFC\uC81C\\20231371_proj3\\oop16_proj3\\d3dUtility.cpp",
+              "RelativeToolTip": "d3dUtility.cpp",
+              "ViewState": "AgIAAP8AAAAAAAAAAAAowBMBAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-21T06:13:14.131Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "virtualLego.cpp",
+              "DocumentMoniker": "C:\\Users\\rin42\\OneDrive\\Desktop\\2\uD559\uB144\\2-2\\\uAC1D\uC9C0\uD504\\\uACFC\uC81C\\20231371_proj3\\oop16_proj3\\virtualLego.cpp",
+              "RelativeDocumentMoniker": "virtualLego.cpp",
+              "ToolTip": "C:\\Users\\rin42\\OneDrive\\Desktop\\2\uD559\uB144\\2-2\\\uAC1D\uC9C0\uD504\\\uACFC\uC81C\\20231371_proj3\\oop16_proj3\\virtualLego.cpp",
+              "RelativeToolTip": "virtualLego.cpp",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAcwCUAAABuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-21T06:13:10.623Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
